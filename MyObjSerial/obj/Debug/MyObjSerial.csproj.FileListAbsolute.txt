@@ -1,0 +1,4 @@
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\MyObjSerial\bin\Debug\MyObjSerial.dll
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\MyObjSerial\bin\Debug\MyObjSerial.pdb
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\MyObjSerial\obj\Debug\MyObjSerial.dll
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\MyObjSerial\obj\Debug\MyObjSerial.pdb

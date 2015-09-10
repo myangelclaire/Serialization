@@ -1,0 +1,7 @@
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\Serialization.exe
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\Serialization.pdb
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\MyObjSerial.dll
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\bin\Debug\MyObjSerial.pdb
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\Serialization.csprojResolveAssemblyReference.cache
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\Serialization.exe
+c:\users\cfan.dms\documents\visual studio 2010\Projects\Serialization\Serialization\obj\x86\Debug\Serialization.pdb
